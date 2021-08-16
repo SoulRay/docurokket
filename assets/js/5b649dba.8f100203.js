@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknebudoculabs=self.webpackChunknebudoculabs||[]).push([[312],{4500:function(a){a.exports=JSON.parse('{"allTagsPath":"/docurokket/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/docurokket/blog/tags/hola"}')}}]);
