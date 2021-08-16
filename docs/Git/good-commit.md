@@ -30,7 +30,7 @@ Descripción de los **tipos:**
 |---            |---                                                                                |
 | **feat**      | Se implementó una nueva función o característica.                                 | 
 | **fix**       | Se solucionó un bug o un error.                                                   |   
-| **docs**      | Se realizaron canbios en ka documentación o comentarios.                          |   
+| **docs**      | Se realizaron cambios en ka documentación o comentarios.                          |   
 | **style**     | Se aplicó formato, comas y puntos faltantes, indentaciones, saltos de línea, etc. | 
 | **refactor**  | Refactorización del código.                                                       |   
 | **test**      | Se añadieron, refactorizaron o mejoraron pruebas.                                 |   

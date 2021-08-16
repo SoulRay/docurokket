@@ -5,13 +5,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Nebulabs',
   tagline: 'Equipo Nebula by Rokket Labs 🚀',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://soulray.github.io',
+  baseUrl: '/docurokket/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/perry.png',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'SoulRay', // Usually your GitHub org/user name.
+  projectName: 'docurokket', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Nebulabs',

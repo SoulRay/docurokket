@@ -18,13 +18,13 @@ Realiza cambios esenciales al proyecto y guárdarlos luego ejecutar `git status`
 
 Agregar los cambios con el comando `git add "NOMBRE DEL ARCHIVO"`
 
-Realizar el commit con el comando `git commit -m "Cambios realizados"`, puede revisar la documentación de [El Buen Commit](git/good-commit)
+Realizar el commit con el comando `git commit -m "Cambios realizados"`, puede revisar la documentación de [El Buen Commit](good-commit)
 #### 5. Envía los cambios a GitHub
 Para enviar los cambios al repositorio, se debe identificar el nombre del repositorio remoto `git remote`, en el caso de este tutorial, el nombre del repositorio es "origin".
 
 Luego de identificar el nombre enviar los cambios al repositorio `git push origin [Nombre de la rama]`
 #### 6. Crea un pull request
-Dirigirse a la web del repositorio, debes hacer click en el botón "Pull request", luego provee todos los detalles necesarios de lo que has hecho y envía el pull request. puede revisar la documentación de [El Buen Pull Request](git/good-pullrequest)
+Dirigirse a la web del repositorio, debes hacer click en el botón "Pull request", luego provee todos los detalles necesarios de lo que has hecho y envía el pull request. puede revisar la documentación de [El Buen Pull Request](good-pullrequest)
 #### 7. Sincroniza la rama maestra con la del repositorio original
 Antes de enviar cualquier pull request al repositorio original debes sincronizar tu repositorio con aquel. Incluso si no vas a enviar un pull request al repositorio original, es mejor efectuar la sincronización, ya que pueden haberse agregado algunas prestaciones o funciones adicionales.
 
